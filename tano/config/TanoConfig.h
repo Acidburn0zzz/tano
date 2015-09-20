@@ -34,7 +34,6 @@ public:
     QString version() const;
     QString email() const;
     QString projectUrl() const;
-    QString updateUrl() const;
 
     bool editorEnabled() const;
 
